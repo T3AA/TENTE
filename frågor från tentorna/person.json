@@ -1,0 +1,8 @@
+{
+  "name" : "Alice",
+  "password" : "password1",
+  "todos" : [
+    "buy food",
+    "study"
+  ]
+}
